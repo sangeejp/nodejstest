@@ -1,7 +1,10 @@
 import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
-
-const routes: Routes = [];
+import { AddQuoteComponent } from './add-quote/add-quote.component';
+const routes: Routes = [
+  {path: '', component: AddQuoteComponent , pathMatch: 'full'},
+  {path: 'editQuote/:id', component: AddQuoteComponent },
+];
 
 @NgModule({
   imports: [RouterModule.forRoot(routes)],

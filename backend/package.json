@@ -1,0 +1,21 @@
+{
+  "name": "samplejs2",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start:server": "nodemon  server.js"
+  },
+  "dependencies": {
+    "bcrypt": "^4.0.0",
+    "bcryptjs": "^2.4.3",
+    "express": "^4.17.1",
+    "html-entities": "^1.2.1",
+    "jsonwebtoken": "^8.5.1",
+    "multer": "^1.4.2",
+    "mysql": "^2.18.1",
+    "nl2br": "0.0.3",
+    "nodemailer": "^6.4.3",
+    "striptags": "^3.1.1",
+    "xlsx-to-json": "^0.3.0"
+  }
+}

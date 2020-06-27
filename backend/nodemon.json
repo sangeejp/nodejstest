@@ -1,0 +1,10 @@
+{
+    "env": {
+      "GMAIL_PWD": "bees!ogic123",
+      "GMAIL_ID": "logicbees2020@gmail.com",
+      "JWT_KEY": "logicbees_secret_key_is_longer_by_sangi",
+      "BASE_URL":"http://localhost/Logicbees/src/assets",
+      "UPLOAD_PATH":"../src/assets/images"
+    }
+  }
+  
