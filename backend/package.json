@@ -15,7 +15,7 @@
     "mysql": "^2.18.1",
     "nl2br": "0.0.3",
     "nodemailer": "^6.4.3",
-    "striptags": "^3.1.1",
+    "striptags": "^3.2.0",
     "xlsx-to-json": "^0.3.0"
   }
 }
